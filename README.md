@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Guilherme Zamboni 😉</h1>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeZamboni32&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuiZamb32&color=blue" alt="Profile views" /> </p>
 
 <br/>
 
