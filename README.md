@@ -104,7 +104,7 @@
 <br/>
 
 ## AVISO
-Perdi minha conta principal (GuilhermeZamboni32)
+Perdi minha conta principal [GuilhermeZamboni32](https://github.com/GuilhermeZamboni32)
 
 
 
