@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Guilherme%20Zamboni&fontSize=40&animation=fadeIn&fontColor=ffffff&color1=000080&color2=6A287E">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Guilherme%20Zamboni&fontSize=40&fontColor=ffffff&color1=420C69&color2=031D90&animation=fadeIn">
 </p>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Dev%C2%B4s%2C+Sou+o+Guilherme!+✌️;Sejam+bem-vindos+ao+meu+Perfil+🤓;Sou+Full-Stack+Developer!+💻;Futuro+Data+Scientist!+📊)
