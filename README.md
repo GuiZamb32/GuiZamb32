@@ -30,21 +30,16 @@ Sou um desenvolvedor apaixonado por transformar dados em soluções reais. Com f
 
 ## 👨‍💻 Perfil
 
-  <div align="right">
-  
-  #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/GuiZamb32/GuiZamb32/blob/main/README-US.md)</kbd>
-  
-  </div>
 
 <br>
 
 ```js
 const dev = {
-  nome: "Seu Nome",
-  cargo: "Futuro Full Stack Developer",
-  estudando: "Desenvolvimento de Sistemas - SENAI",
-  passaTempo: ["Código", "Xadrez", "Academia", "Música", "Jogar", "Física"],
-  status: () => "Provavelmente codando... ou dormindo 😴"
+  nome: "Guilherme Zamboni Menegacio",
+  cargo: "Desenvolvedor Full-Stack",
+  estudando: "Bacharelado em Ciência de Dados e IA. - SENAI",
+  passaTempo: ["Código", "Academia", "Música", "vôlei"],
+  status: () => "Provavelmente codando... ou jogando vôlei"
 };
 ```
 
