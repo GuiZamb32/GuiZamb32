@@ -28,6 +28,28 @@ Sou um desenvolvedor apaixonado por transformar dados em soluções reais. Com f
 - 💡 **Interesses:** Além do código, sou entusiasta de História, Biologia e praticante de vôlei.
 - ⚠️ **Nota:** Esta é minha nova conta oficial (antiga: @GuilhermeZamboni32).
 
+## 👨‍💻 Perfil
+
+  <div align="right">
+  
+  #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/GuiZamb32/GuiZamb32/blob/main/README-US.md)</kbd>
+  
+  </div>
+
+<br>
+
+```js
+const dev = {
+  nome: "Seu Nome",
+  cargo: "Futuro Full Stack Developer",
+  estudando: "Desenvolvimento de Sistemas - SENAI",
+  passaTempo: ["Código", "Xadrez", "Academia", "Música", "Jogar", "Física"],
+  status: () => "Provavelmente codando... ou dormindo 😴"
+};
+```
+
+<br>
+
 ---
 
 ### 🛠️ Toolbox Tecnológico
