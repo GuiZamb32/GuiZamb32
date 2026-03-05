@@ -1,8 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:420C69,100:031D90&height=150&section=header&text=Guilherme%20Zamboni&fontSize=40&fontColor=ffffff&animation=fadeIn">
 </p>
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Dev%C2%B4s%2C+Sou+o+Guilherme!+✌️;Sejam+bem-vindos+ao+meu+Perfil+🤓;Sou+Full-Stack+Developer!+💻;Futuro+Data+Scientist!+📊)
+
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=22&duration=4000&pause=500&color=0D7DD9&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js;Futuro+Data+Scientist!;Sempre+aprendendo+e+evoluindo"
+    alt="Typing SVG"
+  />
+</p>
 
 
 <p align="center">
@@ -17,7 +23,12 @@
   </a>
 </p>
 
+<br>
+
 ---
+
+<br>
+<br>
 
 ### 👨‍💻 Sobre Mim
 
@@ -28,7 +39,11 @@ Sou um desenvolvedor apaixonado por transformar dados em soluções reais. Com f
 - 💡 **Interesses:** Além do código, sou entusiasta de História, Biologia e praticante de vôlei.
 - ⚠️ **Nota:** Esta é minha nova conta oficial (antiga: @GuilhermeZamboni32).
 
-## 👨‍💻 Perfil
+
+<br>
+
+---
+### 👨‍💻 Perfil
 
 
 <br>
@@ -63,8 +78,8 @@ const dev = {
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
