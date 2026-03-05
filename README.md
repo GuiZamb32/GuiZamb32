@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Guilherme%20Zamboni&fontSize=40&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Guilherme%20Zamboni&fontSize=40&animation=fadeIn&fontColor=ffffff&color1=000080&color2=6A287E">
 </p>
-
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Dev%C2%B4s%2C+Sou+o+Guilherme!+✌️;Sejam+bem-vindos+ao+meu+Perfil+🤓;Sou+Full-Stack+Developer!+💻;Futuro+Data+Scientist!+📊)
 
