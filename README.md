@@ -37,8 +37,7 @@ Sou um desenvolvedor apaixonado por transformar dados em soluções reais. Com f
 - 🎓 **Educação:** Bacharelando em Ciência de Dados e IA (SENAI).
 - 🚀 **Foco Atual:** Aperfeiçoamento em ecossistema React/Node e análise preditiva.
 - 💡 **Interesses:** Além do código, gosto muito de História, Biologia e jogar vôlei.
-- ⚠️ **Nota:** Esta é minha nova conta oficial (antiga: @GuilhermeZamboni32).
-
+- ⚠️ **Nota:** Esta é minha nova conta oficial. Meu perfil antigo pode ser encontrado em:  [GuilhermeZamboni32](https://github.com/GuilhermeZamboni32)
 
 <br>
 
