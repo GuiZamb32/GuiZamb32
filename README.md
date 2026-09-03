@@ -30,19 +30,19 @@
 <br>
 <br>
 
-### 👨‍💻 Sobre Mim
+###  Sobre 
 
 Sou um desenvolvedor apaixonado por transformar dados em soluções reais. Com formação técnica e atualmente graduando em **Ciência de Dados e IA**, busco equilibrar a robustez do desenvolvimento Full-Stack com a inteligência analítica dos dados.
 
-- 🎓 **Educação:** Bacharelando em Ciência de Dados e IA (SENAI).
-- 🚀 **Foco Atual:** Aperfeiçoamento em ecossistema React/Node e análise preditiva.
-- 💡 **Interesses:** Além do código, gosto muito de História, Biologia e jogar vôlei.
-- ⚠️ **Nota:** Esta é minha nova conta oficial. Meu perfil antigo pode ser encontrado em:  [GuilhermeZamboni32](https://github.com/GuilhermeZamboni32)
+-  **Educação:** Bacharelando em Ciência de Dados e IA (SENAI).
+-  **Foco Atual:** Aperfeiçoamento em ecossistema React/Node e análise preditiva.
+-  **Interesses:** Além do código, gosto muito de História, Biologia e jogar vôlei.
+-  **Nota:** Esta é minha nova conta oficial. Meu perfil antigo pode ser encontrado em:  [GuilhermeZamboni32](https://github.com/GuilhermeZamboni32)
 
 <br>
 
 ---
-### 👨‍💻 Perfil
+###  Perfil
 
 
 <br>
@@ -61,7 +61,7 @@ const dev = {
 
 ---
 
-### 🛠️ Toolbox Tecnológico
+###  Toolbox Tecnológico
 
 #### **Desenvolvimento & Dados**
 <p align="left">
@@ -84,7 +84,7 @@ const dev = {
 
 ---
 
-### 📊 Estatísticas e Atividade
+###  Estatísticas e Atividade
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiZamb32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
