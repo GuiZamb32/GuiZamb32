@@ -178,6 +178,3 @@ Improving      → Software Architecture
   </a>
 </p>
 
-<p align="center">
-  <sub>Building. Learning. Improving.</sub>
-</p>
