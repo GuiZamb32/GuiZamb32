@@ -115,9 +115,7 @@ const dev = {
 | Project                         | Description                                                                                                                                     | Stack                                       |
 | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
 | **Sistema de Gestão de Vendas** | Sistema completo para gerenciamento de clientes, vendas e operações comerciais, desenvolvido com arquitetura separada entre frontend e backend. | `React` `TypeScript` `FastAPI` `PostgreSQL` |
-| **QuimioAnalytics**             | Solução voltada à análise e visualização de dados, desenvolvida como projeto da KiraSapiens TechSolutions.                                      | `Python` `Data Science` `Analytics`         |
-| **Panteão Pizzaria**            | E-commerce de pizzas com sistema de personalização de produtos, carrinho e cálculo de pedidos.                                                  | `React` `JavaScript` `CSS`                  |
-| **Placar de Dardos Casual**     | Aplicação web mobile-first para partidas de dardos com modos 301 e 501.                                                                         | `React` `JavaScript` `CSS`                  |
+| **Processamento de Dados 2.0** | Pipeline de processamento e análise de dados com coleta, tratamento, transformação e visualização de informações, integrando backend, frontend e banco de dados. | `Python` `FastAPI` `React` `Pandas` `SQLite` |
 
 Mais projetos estão disponíveis na minha aba de repositórios.
 
